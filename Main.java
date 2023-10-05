@@ -1,4 +1,3 @@
-
 package newquiz;
 
 import java.awt.Color;
@@ -89,7 +88,7 @@ class NewQuiz implements ActionListener {
         frame.setSize(750, 750);
         frame.getContentPane().setBackground(new Color(50, 50, 50));
         frame.setLayout(null);
-        frame.setResizable(true);
+        frame.setResizable(false);
         textfield.setBounds(0, 0, 750, 50);
         textfield.setBackground(new Color(25, 25, 25));
         textfield.setForeground(new Color(25, 255, 0));
