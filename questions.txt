@@ -1,0 +1,7 @@
+When an array is passed to a method, what does the method receive?
+When is the object created with new keyword? 
+Identify the modifier which cannot be used for constructor.
+Where does the system stores parameters and local variables whenever a method is invoked?
+Which of the following architecture does the Swing framework use?
+Which of the following is not a Java features?
+The \u0021 article referred to as a

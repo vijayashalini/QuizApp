@@ -1,0 +1,7 @@
+The reference of the array,A copy of the array,Length of the array,Copy of first element
+At run time,At compile time,Depends on the code,None
+public,protected,private ,static 
+Heap,Array,Stack ,Tree
+MVC,MVP,Layered architecture,Master-Slave architecture
+Dynamic,Architecture Neutral,Use of pointers,Object-oriented
+Unicode escape sequence,Octal escape,Hexadecimal,Line feed
